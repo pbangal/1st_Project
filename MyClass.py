@@ -13,6 +13,8 @@ enemy1.getAtk()
 enemy2 = Enemy()
 enemy2.getAtk()
 
+'''
+
 playerhp = 260
 atklw = 60
 atkhigh = 80
@@ -29,3 +31,5 @@ while playerhp > 0:
     if playerhp == 30:
         print("You have low health. Shifted to hospital.")
         break
+
+'''
